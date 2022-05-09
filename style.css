@@ -1,0 +1,54 @@
+body {
+    background: #eeeeee; 
+    font-family: "Segoe UI";
+}
+
+.navi {
+    font-size: 25px;
+}
+
+.wrapper{
+    border-left: 10px solid rgb(57, 118, 209); 
+    margin-left: 5px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.content{
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+table{
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+table,td,th {
+    border-collapse : collapse;
+    border : 1px solid black;
+}
+
+th, td{
+    text-align: center;
+}
+
+caption {
+    caption-side: top;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 8px;
+    margin-left: 5px;
+}
+
+button{
+    margin-left:110px;
+    margin-top: 2px
+}
